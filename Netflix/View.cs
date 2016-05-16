@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Netflix
 {
-    class View
+    public class View
     {
         public Catalogue catalogue;
         UserInput userInput;

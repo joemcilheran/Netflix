@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace Netflix
 {
     
-    abstract class Title
+    public abstract class Title
     {
         public string name;
         public int? rating;

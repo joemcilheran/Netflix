@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 namespace Netflix
 {
     
-    class Catalogue: IEnumerable
+    public class Catalogue: IEnumerable
     {
         public List<Genre> genreList;
         private List<Title> allTitlesList;

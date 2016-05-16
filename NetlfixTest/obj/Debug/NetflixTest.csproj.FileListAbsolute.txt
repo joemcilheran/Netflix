@@ -1,0 +1,7 @@
+C:\Users\Joseph A McIlheran\Documents\Visual Studio 2015\Projects\Netflix\NetlfixTest\obj\Debug\NetflixTest.csprojResolveAssemblyReference.cache
+C:\Users\Joseph A McIlheran\Documents\Visual Studio 2015\Projects\Netflix\NetlfixTest\bin\Debug\NetlfixTest.dll
+C:\Users\Joseph A McIlheran\Documents\Visual Studio 2015\Projects\Netflix\NetlfixTest\bin\Debug\NetlfixTest.pdb
+C:\Users\Joseph A McIlheran\Documents\Visual Studio 2015\Projects\Netflix\NetlfixTest\bin\Debug\Netflix.exe
+C:\Users\Joseph A McIlheran\Documents\Visual Studio 2015\Projects\Netflix\NetlfixTest\bin\Debug\Netflix.pdb
+C:\Users\Joseph A McIlheran\Documents\Visual Studio 2015\Projects\Netflix\NetlfixTest\obj\Debug\NetlfixTest.dll
+C:\Users\Joseph A McIlheran\Documents\Visual Studio 2015\Projects\Netflix\NetlfixTest\obj\Debug\NetlfixTest.pdb

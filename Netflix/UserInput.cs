@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Netflix
 {
-    class UserInput
+    public class UserInput
     {
         public UserInput()
         {

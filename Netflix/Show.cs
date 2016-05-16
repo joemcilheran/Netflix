@@ -6,10 +6,10 @@ using System.Threading.Tasks;
 
 namespace Netflix
 {
-    class Show: Title
+    public class Show: Title
     {
-        List<Episode> episodeList;
-        int numberOfEpisodes;
+        public List<Episode> episodeList;
+        public int numberOfEpisodes;
         public Show(string Name,List<Episode> showEpisodeList, string Genre)
         {
             name = Name;
@@ -37,7 +37,7 @@ namespace Netflix
                 {
                     ratingList.Add(episode.Rating);
                 }
-                int aggregateRating = ((ratingList.Sum()) / episodeList.Count);
+                int aggregateRating = ((ratingList.Sum()) / numberOfEpisodes);
                 return aggregateRating;
             }
         }
